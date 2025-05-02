@@ -100,8 +100,11 @@ pip freeze > requirements.txt
 jupyter notebook
 Open human_activity_recognition_using_smartphone_Y.ipynb and run all cells.
 
-📈 Model Results
-Model	Accuracy	 F1   Score
-Random Forest	  ~95%	 ~94%
-SVM	            ~93%	 ~92%
-KNN	            ~91%	 ~90%
+## 📈 Model Results
+
+| Model          | Accuracy | F1 Score |
+|----------------|----------|----------|
+| Random Forest  | ~95%     | ~94%     |
+| SVM            | ~93%     | ~92%     |
+| KNN            | ~91%     | ~90%     |
+
